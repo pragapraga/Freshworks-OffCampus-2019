@@ -1,8 +1,8 @@
-## Freshwork Frontend Assignment
+## Freshwork Off-Campus Assignment
 
 ### Project Structure
 
-    ├── Freshworks-FrontEnd                    
+    ├── Freshworks-OffCampus-2019                   
     │   ├── src  
     |   |    ├── app.js
     |   |    ├── index.html
