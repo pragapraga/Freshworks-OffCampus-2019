@@ -1,7 +1,5 @@
 ## Freshwork Frontend Assignment
 
-### Demo Link: https://ajaysharvesh3.github.io/
-
 ### Project Structure
 
     ├── Freshworks-FrontEnd                    
@@ -9,8 +7,8 @@
     |   |    ├── app.js
     |   |    ├── index.html
     |   |    ├── styles.css    
-    |   |    ├── country-details
-    |   |    |          ├── country-details.html
+    |   |    ├── movie-details
+    |   |    |          ├── movie-details.html
     |   |    |          ├── movie-details.js
     │   └── README.md  
     └── ...
@@ -18,39 +16,14 @@
 ## Project Details
 
 ### Description
-A web application used to search countries and view the details of those countries. Whenever user types for countries in the search bar, then results will be populating in Cards and clicking on that will direct to the details page.
+A web application used to search movies and view the details of those movies. Whenever user types for movies in the search bar, then results will be populating in Cards and clicking on that will direct to the details page.
 
 ### Features and flows
 + `[Additional (Custom TypeAhead)]` In the search bar, while typing, results automatically updates every time, `no need of search button.`
-+ Click on results (card), direct to `country-details` page and shows details about country.
++ Click on results (card), direct to `movie-details` page and shows details about movie.
 + `Details` are displayed in `Table View` so that it could be understandable and easy to read.
-+ `[Additional]` Population data in details page is user understandable `Original Data: 1295210000` => `Displaying Data: 1.3B`
 + `[Additional]` After moving back to the previous home page, still shows the previous results and manage your searching time.
 
-### Screenshots <br />
-**TypeAhead Functionality - Home Page**<br />
-
-![alt text](img/screenshots/one.png)
-
-***
-
-**Hover Functionality**
-
-![alt text](img/screenshots/two.png)
-
-***
-
-**Table View - Country Details Page**
-
-![alt text](img/screenshots/three.png)
-
-***
-
-**Error Handling - Home Page**
-
-![alt text](img/screenshots/five.png)
-
-***
 
 ### Run the project
 
