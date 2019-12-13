@@ -3,7 +3,7 @@
 ### Project Structure
 
     ├── Freshworks-OffCampus-2019                   
-    │   ├── src  
+    │   ├── docs  
     |   |    ├── app.js
     |   |    ├── index.html
     |   |    ├── styles.css    
